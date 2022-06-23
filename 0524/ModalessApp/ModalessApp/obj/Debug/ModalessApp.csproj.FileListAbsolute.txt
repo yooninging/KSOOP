@@ -1,0 +1,12 @@
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\bin\Debug\ModalessApp.exe.config
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\bin\Debug\ModalessApp.exe
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\bin\Debug\ModalessApp.pdb
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\obj\Debug\ModalessApp.csproj.AssemblyReference.cache
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\obj\Debug\ModalessApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\obj\Debug\ModalessApp.Form1.resources
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\obj\Debug\ModalessApp.Form2.resources
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\obj\Debug\ModalessApp.Properties.Resources.resources
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\obj\Debug\ModalessApp.csproj.GenerateResource.cache
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\obj\Debug\ModalessApp.csproj.CoreCompileInputs.cache
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\obj\Debug\ModalessApp.exe
+C:\Users\wow07\source\repos\ModalessApp\ModalessApp\obj\Debug\ModalessApp.pdb

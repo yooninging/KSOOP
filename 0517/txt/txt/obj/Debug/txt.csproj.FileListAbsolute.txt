@@ -1,0 +1,11 @@
+C:\Users\wow07\source\repos\txt\txt\bin\Debug\txt.exe.config
+C:\Users\wow07\source\repos\txt\txt\bin\Debug\txt.exe
+C:\Users\wow07\source\repos\txt\txt\bin\Debug\txt.pdb
+C:\Users\wow07\source\repos\txt\txt\obj\Debug\txt.csproj.AssemblyReference.cache
+C:\Users\wow07\source\repos\txt\txt\obj\Debug\txt.csproj.SuggestedBindingRedirects.cache
+C:\Users\wow07\source\repos\txt\txt\obj\Debug\txt.Form1.resources
+C:\Users\wow07\source\repos\txt\txt\obj\Debug\txt.Properties.Resources.resources
+C:\Users\wow07\source\repos\txt\txt\obj\Debug\txt.csproj.GenerateResource.cache
+C:\Users\wow07\source\repos\txt\txt\obj\Debug\txt.csproj.CoreCompileInputs.cache
+C:\Users\wow07\source\repos\txt\txt\obj\Debug\txt.exe
+C:\Users\wow07\source\repos\txt\txt\obj\Debug\txt.pdb

@@ -1,0 +1,7 @@
+C:\Users\wow07\source\repos\chackbox\chackbox\obj\Debug\checkbox.csproj.AssemblyReference.cache
+C:\Users\wow07\source\repos\chackbox\chackbox\obj\Debug\checkbox.csproj.SuggestedBindingRedirects.cache
+C:\Users\wow07\source\repos\chackbox\chackbox\obj\Debug\chackbox.Form1.resources
+C:\Users\wow07\source\repos\chackbox\chackbox\obj\Debug\chackbox.Properties.Resources.resources
+C:\Users\wow07\source\repos\chackbox\chackbox\obj\Debug\checkbox.csproj.GenerateResource.cache
+C:\Users\wow07\source\repos\chackbox\chackbox\obj\Debug\checkbox.csproj.CoreCompileInputs.cache
+C:\Users\wow07\source\repos\chackbox\chackbox\obj\Debug\Ex08_02_CheckBoxApp.Form1.resources

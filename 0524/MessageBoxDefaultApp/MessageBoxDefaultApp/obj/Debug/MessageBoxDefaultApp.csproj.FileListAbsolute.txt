@@ -1,0 +1,11 @@
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\bin\Debug\MessageBoxDefaultApp.exe.config
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\bin\Debug\MessageBoxDefaultApp.exe
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\bin\Debug\MessageBoxDefaultApp.pdb
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\obj\Debug\MessageBoxDefaultApp.csproj.AssemblyReference.cache
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\obj\Debug\MessageBoxDefaultApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\obj\Debug\MessageBoxDefaultApp.Form1.resources
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\obj\Debug\MessageBoxDefaultApp.Properties.Resources.resources
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\obj\Debug\MessageBoxDefaultApp.csproj.GenerateResource.cache
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\obj\Debug\MessageBoxDefaultApp.csproj.CoreCompileInputs.cache
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\obj\Debug\MessageBoxDefaultApp.exe
+C:\Users\wow07\source\repos\MessageBoxDefaultApp\MessageBoxDefaultApp\obj\Debug\MessageBoxDefaultApp.pdb

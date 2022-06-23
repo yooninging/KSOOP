@@ -1,0 +1,8 @@
+C:\Users\Yoon\source\repos\hello\hello\bin\Debug\hello.exe.config
+C:\Users\Yoon\source\repos\hello\hello\bin\Debug\hello.exe
+C:\Users\Yoon\source\repos\hello\hello\bin\Debug\hello.pdb
+C:\Users\Yoon\source\repos\hello\hello\obj\Debug\hello.csproj.AssemblyReference.cache
+C:\Users\Yoon\source\repos\hello\hello\obj\Debug\hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yoon\source\repos\hello\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+C:\Users\Yoon\source\repos\hello\hello\obj\Debug\hello.exe
+C:\Users\Yoon\source\repos\hello\hello\obj\Debug\hello.pdb
